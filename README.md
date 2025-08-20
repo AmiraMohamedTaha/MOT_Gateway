@@ -50,7 +50,7 @@
 
 https://drive.google.com/drive/folders/1HO312NMsclBWpcf1HdRNTGbxIh8CBBva
 
-# Video of Door Open and Close Sensors with Buzzer:
+# Video of Door Open and Close with Buzzer:
 
 https://drive.google.com/file/d/1R8BmC7XfsEcxw5avZG1Z8Rx00EAdEI8H/view?usp=sharing
 
